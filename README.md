@@ -14,7 +14,7 @@ The theoretical conclusion that as private information sets collapse into shared
 
 ### Papers in this area
 
--  Paul, Suresh L. and Sahni, Herman, The Convergence of Intelligence and the Dissolution of Alpha: AI Ubiquity as the Realization of Strong Form Efficiency (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562479.
+-  Paul, Suresh L. and Sahni, Herman, [The Convergence of Intelligence and the Dissolution of Alpha: AI Ubiquity as the Realization of Strong Form Efficiency](https://github.com/sureshlazaruspaul/dissolution-of-alpha) (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562479.
 
 ***
 
@@ -23,7 +23,7 @@ A game-theoretic analysis of global AI governance, predicting a "Race to the Per
 
 ### Papers in this area
 
--  Paul, Suresh L. and Sahni, Herman, AI Regulation Regimes and Competitive Outcomes: A Game-Theoretic Analysis of Regulatory Competition in Frontier Technologies (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562379.
+-  Paul, Suresh L. and Sahni, Herman, [AI Regulation Regimes and Competitive Outcomes: A Game-Theoretic Analysis of Regulatory Competition in Frontier Technologies](https://github.com/sureshlazaruspaul/ai-regulation-regimes) (April 12, 2026). Available at SSRN: https://ssrn.com/abstract=6562379.
 
 ***
 

@@ -27,6 +27,11 @@ A game-theoretic analysis of global AI governance, predicting a "Race to the Per
 
 ***
 
+## 4. The Differentiation Paradox
+A market-side phenomenon where firms utilize branding and proprietary nomenclature to manufacture perceived differentiation in an environment where the underlying technology has become a commoditized utility.
+
+***
+
 ## Intellectual Property & Licensing
 
 This work and the associated "Paulian Framework" are licensed under a Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License (CC BY-NC-ND 4.0).
